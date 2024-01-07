@@ -1,8 +1,8 @@
 # Super_Store_sales_dashboard
 
 Project Description 
-Please visit the dashboard by clicking on the link
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiNDg4MDkxNzQtNDgxMi00YzY5LTkyMmQtMDk4ODk3NzJmY2FkIiwidCI6ImQwNTJjZTVjLWFiZmYtNDg2Yi04ZmQzLWQxMGUxYTcwNDdhMCJ9)
+Please visit the dashboard by clicking on the link 
+[ClickHere](https://app.powerbi.com/view?r=eyJrIjoiY2FmZTBkOWUtNGExZi00OGZhLTk1MDYtMDRmMTllMDUxOTVkIiwidCI6ImQwNTJjZTVjLWFiZmYtNDg2Yi04ZmQzLWQxMGUxYTcwNDdhMCJ9)
 
 SUPER STORE SALES DASHBOARD 
 
